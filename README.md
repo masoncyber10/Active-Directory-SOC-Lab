@@ -1,7 +1,12 @@
-## Hi there 👋
+<h1>Hi, I'm Mason!</h1> 
+
+<h2>👨‍💻Cybersecurity Projects:</h2>
+
+<b>
+
 
 <!--
-**masoncyber10/masoncyber10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,4 +18,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
