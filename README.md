@@ -1,5 +1,5 @@
 <h1>Active Directory & SOC Lab</h1> 
-
+<p>This project is beginner-friendly Active Directory & SOC Lab designed to help me learn and understand how SOC analyst work in real environments. In this lab, I deployed a virtualized Active Directory using Windows Server 2019 and Windows 10 virtual machine by configuring DNS, DHCP, and RAS/NAT on a Windows Server 2019 domain controller and enabled automatic IP addressing and internet connectivity for domain user-client on a private internal network. </p>
 <h2>Screenshots & Walkthrough</h2>
 
 <b>
